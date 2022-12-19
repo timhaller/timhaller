@@ -8,7 +8,3 @@
 timhaller/timhaller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-- name: GitHub-Profile-3D-Contrib
-  uses: yoshi389111/github-profile-3d-contrib@0.7.0
